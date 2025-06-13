@@ -4,7 +4,7 @@ import requests
 API_KEY = "CNDM6NOEqtBJxL4vaUo7UGs8"
 API_URL = "https://www.jagososmed.com/api/json.php"
 
-SERVICE_ID = 38264
+SERVICE_ID = 5187
 TARGET_DATA = "https://www.tiktok.com/@anishclip/video/7513911683279113490"
 QUANTITY = 252
 
