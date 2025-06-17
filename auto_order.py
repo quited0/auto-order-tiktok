@@ -5,7 +5,7 @@ API_KEY = "CNDM6NOEqtBJxL4vaUo7UGs8"
 API_URL = "https://www.jagososmed.com/api/json.php"
 
 SERVICE_ID = 5612
-TARGET_DATA = "https://www.tiktok.com/@anishclip/video/7513911683279113490"
+TARGET_DATA = "https://www.tiktok.com/@anishclip/video/7514192415259905298"
 QUANTITY = 100
 
 HEADERS = {
